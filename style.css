@@ -1,0 +1,48 @@
+*{
+   
+}
+body{
+    margin:0;
+}
+.h1-2{
+    color:orange;
+}
+.half-1{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-1 img{
+    width:100%;
+}
+section{
+    height:500px;
+}
+.top-banner{
+  background-image:url("image/top-banner.png");
+  background-repeat: no-repeat;  
+}
+.first-link{
+    text-decoration: none;
+    background-color:orange;
+    padding:10px 20px;
+    color:white;
+    font-family:bold;
+    border-radius:5px;
+}
+.dream-area{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height:500px;
+}
+.dream-area img{
+    width:100%;
+}
+.dream{
+    width:40%;
+    margin-left:5%;
+    padding-left:2%;
+    float:left;
+}
