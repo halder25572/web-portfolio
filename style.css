@@ -46,3 +46,12 @@ section{
     padding-left:2%;
     float:left;
 }
+.experience-id{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half-2{
+    box-shadow:10px 10px 40px gray;
+    border-radius:5px;
+}
